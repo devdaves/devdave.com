@@ -7,13 +7,16 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace DevDave.com.Web
+namespace DevDave.Com.Web
 {
-    // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
-    // visit http://go.microsoft.com/?LinkId=9394801
-
+    /// <summary>
+    /// Entry point
+    /// </summary>
     public class MvcApplication : System.Web.HttpApplication
     {
+        /// <summary>
+        /// Let's get it started
+        /// </summary>
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();

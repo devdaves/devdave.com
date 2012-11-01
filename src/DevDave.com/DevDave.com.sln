@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDave.com.Web", "DevDave.com.Web\DevDave.com.Web.csproj", "{724FD701-6E9A-49E1-BB6B-77A8D5E9820C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDave.Com.Web", "DevDave.com.Web\DevDave.Com.Web.csproj", "{724FD701-6E9A-49E1-BB6B-77A8D5E9820C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDave.com.Web.Tests", "DevDave.com.Web.Tests\DevDave.com.Web.Tests.csproj", "{0FF2FABD-AC2C-4014-A558-4EC318A32C2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDave.Com.Web.Tests", "DevDave.com.Web.Tests\DevDave.Com.Web.Tests.csproj", "{0FF2FABD-AC2C-4014-A558-4EC318A32C2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
