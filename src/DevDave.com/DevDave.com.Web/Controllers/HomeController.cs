@@ -35,7 +35,7 @@ namespace DevDave.Com.Web.Controllers
         /// <returns>returns the resume page</returns>
         public ActionResult Resume()
         {
-            return this.View("Resume");
+            return this.RedirectPermanent("http://careers.stackoverflow.com/devdaves");
         }
     }
 }

@@ -51,15 +51,6 @@ namespace DevDave.Com.Web.Tests.Controllers
         }
 
         /// <summary>
-        /// When the resume action is called it should return the resume view
-        /// </summary>
-        [TestMethod]
-        public void ResumeAction_Returns_ResumeView()
-        {
-            this.TestViewName("Resume", () => { return this.controller.Resume(); });
-        }
-
-        /// <summary>
         /// Tests the name of the view.
         /// </summary>
         /// <param name="expectedView">The expected view.</param>
