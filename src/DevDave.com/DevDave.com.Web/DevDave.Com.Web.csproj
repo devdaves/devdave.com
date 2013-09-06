@@ -149,6 +149,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\images\devdave-avatar.png" />
+    <Content Include="Content\images\DevDaveFlipFace.jpg" />
     <Content Include="Content\images\fc-webicon-aboutme-m.png" />
     <Content Include="Content\images\fc-webicon-aboutme-s.png" />
     <Content Include="Content\images\fc-webicon-aboutme.png" />
