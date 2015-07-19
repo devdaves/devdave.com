@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDave.Com.Web", "DevDave.com.Web\DevDave.Com.Web.csproj", "{724FD701-6E9A-49E1-BB6B-77A8D5E9820C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDave.Com.Web.Tests", "DevDave.com.Web.Tests\DevDave.Com.Web.Tests.csproj", "{0FF2FABD-AC2C-4014-A558-4EC318A32C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebjobTest", "WebjobTest\WebjobTest.csproj", "{B3B4823A-4D1B-4101-B51A-F53860EF0105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,10 @@ Global
 		{0FF2FABD-AC2C-4014-A558-4EC318A32C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FF2FABD-AC2C-4014-A558-4EC318A32C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FF2FABD-AC2C-4014-A558-4EC318A32C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B4823A-4D1B-4101-B51A-F53860EF0105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B4823A-4D1B-4101-B51A-F53860EF0105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B4823A-4D1B-4101-B51A-F53860EF0105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B4823A-4D1B-4101-B51A-F53860EF0105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
